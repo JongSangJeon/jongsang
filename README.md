@@ -1,2 +1,1 @@
 # jongsang
-firstProject
